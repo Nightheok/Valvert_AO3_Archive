@@ -2,7 +2,7 @@
 Welcome to the Valvert_AO3_Archive, a dedicated repository for all Valvert (Javert/Valjean) works within the Les Misérables fandom on Archive of Our Own (AO3).
 
 ## Overview
-This archive is a collection of fanworks centered around the Valvert (Javert/Valjean) pairing from the Les Misérables fandom. It is intended as a resource for fans to explore and enjoy the diversity and creativity within this specific niche of the fandom.
+This archive is a collection of fanworks centered around the Valvert (Javert/Valjean) pairing from the Les Misérables fandom. It is intended as a resource for fans to explore and enjoy the diversity and creativity within this specific niche of the fandom. Contents are organized based on the first posting date.
 
 ## Features
 1. Comprehensive CSV File: The archive includes a CSV file detailing meta information (title, author, rating, etc.) for each work. This serves as a quick reference guide for exploring the collection.
