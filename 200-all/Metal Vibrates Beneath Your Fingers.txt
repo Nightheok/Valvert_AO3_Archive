@@ -1,0 +1,924 @@
+Title: Metal Vibrates Beneath Your Fingers
+Work ID: 28491987
+Author: goatsongs
+Rating: Teen And Up Audiences
+Relationship: Javert/Jean Valjean, Chabouillet & Javert (Les Misérables)
+Additional Tags: Android!Javert, Human!Valjean, Unresolved Tension, Barricade Day, Javert gets found out, of course, Mentions of Blood, Mentions of Violence, android!javert is a twink, very slow updates, Rating May Change
+Language: English
+Status: Updated
+Chapters: 3/?
+
+Cybr 7.8.2  (v7.8.2:580fbb018f, 13 05 2130, 12:11:27) >>> OpenDirectory(" CyberLife.Inc ", Facility :: “ AndroïdeParis ", Model :: “ JR400 ”) 
+
+    [Reset]
+
+    [Model Utility Restored]
+
+ 
+
+>>> open("Facility::Toulon .Section446.Crime:: Theft .Inmates' 24500::24700 .", mode='r', encoding='404', errors=None)     [Processed] >>> .readline ' 24500' 
+
+    [Processed]>>> .readline ' 24501 '    [Processed] >>> .readline ' 24502 ’    [Processed]
+
+>>> .readline ‘ 24599 ’    [Processed] >>> .readline ‘ 24600’
+
+    [Processed]>>> .readline ‘ 24601 ’>>> TypeError:: ‘ Inmate not found ’ >>> repeat(.readline) > ID:: 24601  > Crime:: Theft ; Destruction of Property > Full Name:: “ Jean Valjean ” > Date Incarcerated::  20.07.2096 > End of Sentence:: 20.07.2101 > Date Released:: 14.10.2115 > Parole:: [ Unreported ] > Location:: [ Unreported ] [...] > Facial ID:: [ Processed]
+
+
+
+
+
+
+The sky was washed in white, the hidden sunlight amplified by the spread of clouds, and against the blinding expanse of morning, the Paris skyline was blurred at the edges, skyscrapers shifting in and out of focus as far as the eye could see. 
+
+If someone stood to the far end of Rue de la Chanvrerie, they would see a towering mausoleum of monitors, pedastals, plexyglass chairs, a wrecked car with its insides vomited out onto the asphalt, doors and pieces of life and cyber-life alike, stacked together in a terrifying monument of mismatch and stronghold. On top of this barricade, standing tall with his leg on a metal crate and an M77 long rifle propped up against his shoulder, was what looked like a young man dressed in a bright red vest, his gaze stony, looking out to some place nobody could see. This was no ordinary man. His skin was not skin, and it was white as snow, and the sides of his skull were of a metallic hue that shone in the light of day. He had the countenance and confidence of a leader, and most interestingly, if the observer was to get closer, on his temple was a small, spinning LED light, in an unusual orange. It blinked at regular intervals. But nobody was there to see him, for nobody was there at all. The silence rang out across a waking city. 
+
+On the other end of the street, behind the barricade, a group of androids and humans, all with a heart and soul of their own with dreams of liberation and revolution, were beginning to wake or simply open their eyes. Most of them felt rested, waking quickly, perhaps knowing they were to meet their end long before seeing their reality transformed. 
+
+A fine story of hope and blood dripping down the drain in two different but equally morbid colours, a story perhaps worth telling, not only in the ways it intertwined with the derailment of android prototype JR400, informally known as Javert. Not far from this group of dreamers, in fact, this prototype created by Androide Paris as a model of ruthless obedience, and sent to the Paris Police force as an aid, was preparing to infiltrate their ranks and take their operation down.
+
+“How do I look?” Javert stood, straight as a die, in front of its boss, still adjusting to its new clothes.Chabouillet looked up from the files he had been examining and gave the android in front of him a casual once-over. “You look dashing, Javert,” he said with a sarcasm so thin even a sophisticated system such as the JR400 struggled to detect it.
+
+Chabouillet had taken to calling it Javert for ease years earlier during a case, where a model name like JR400 would have attracted unnecessary attention in a particularly dangerous situation, but it had become routine, and Chabouillet had apparently never wanted to stop. 
+
+“I must look like an insurgent. Do I?” 
+
+Chabouillet laughed. “Yes. You do. Now–” He stood up from his desk and walked over to Javert, adjusting the worn jacket covering its shoulders. 
+
+“Show me how you lie.” 
+
+Javert lowered its eyelids and the blue LED light on its temple turned green. It opened its eyes again. “‘I stand with you. I am a deviant, like you, and I want to help.’”
+
+Chabouillet fixed Javert with an unimpressed look. “That’s going to get you killed, kid. Let’s try it again.”
+
+Javert obeyed. 
+
+Eventually, Chabouillet seemed somewhat satisfied with what Javert, originally programmed not to lie, had memorised in order to convince the insurgents to trust it. 
+
+Javert was sent out in the street just as the sun entered the last third of its course. The police defence squadron had already been sent out hours earlier to assemble on Rue de la Chanvrerie. The city bustled as any other day in the heat of early summer, unaware that this day would be sealing the fates of many to death, or worse, perdition.Equally unaware was Javert of the apprehension with which Chabouillet watched it leave.
+
+The barricade was thrumming with equal fear and trepidation, and the fighting had not quite begun yet. Javert walked down Rue Saint-Denis, easily not attracting the attention of the guards and citizens foolish enough to still be in the street. Its eyes scanned their expressions of interest, concern, a few even excitement, but none of these people were insurgents. Javert carried on, the mission order flashing bright behind its eyelids. 
+
+By the side of the barricade was a gap that could just fit a person passing through, and Javert slipped in with ease.
+
+“Oi! You!”
+
+Javert looked up to find a tall man it recognised as human, and he had a rifle slung across his shoulder, which he held as he looked at Javert suspiciously.
+
+“What’s your business here?” 
+
+“I’m here to help the cause. I can fight with you, if you will allow it.” Javert echoed from its rehearsals earlier, pretending that the man in front of it was Chabouillet, and that he knew Javert was lying. It willed its LED not to turn yellow as code distressingly flickered across its interface at the spoken lie. 
+
+The man stared at Javert a moment longer, eyes flicking briefly at its LED, before his expression changed into a smile. “Welcome, brother.” He clapped a hand on Javert’s shoulder. 
+
+“I should not think they will attack tonight.” Javert tried. 
+
+“Indeed, they shall not. For now we wait. Here–” the man directed Javert to the entrance of the Corinthe, where a few arms had been propped against the wall. He selected a carbine and handed it to Javert, smiling again. “I’m Courfeyrac, by the way. Welcome to liberation.” 
+
+Javert knew the appropriate response was to smile, and it tried, nodding up to the taller man. Courfeyrac walked away, and Javert watched as he went to stand by an android, the scan recognised him as EJ100, his face serious and focused and stripped of the human appearance his original make-up must have had. 
+
+Javert moved toward the darkest corner of the room and sat down, holding the carbine between its legs, and it waited. Soon the time would come for it to rise and break the miscreants defense from within. Its eyes began to scan the room, analysing and archiving each piece of information that would result useful to the police. The clock on the side of its interface ticked away, the numbers shifting into each other as, outside, night approached menacingly.The turn was unexpected and sudden but had none of the momentum Javert would have expected. A child who had had connections with a series of petty pickpocketing crimes and stolen goods from the morning markets was enough of a troublemaker to now also be part of a deviant insurgence against the state. He entered the Corinthe.
+
+Gavroche Thenardier took a single look at Javert and without a moment’s hesitation, he shouted, “Spy!” Javert stood up and hastily moved toward the door, just as four men entered the room at the child’s call. 
+
+The head of the four, the android EJ100, came to stand in Javert’s way. 
+
+“Who are you?” 
+
+Javert quickly evaluated its chances of escape. The escape routes were two, through the window, which was closed, or through the door, which was blocked. In a fight against the four of them, it would surely fail. It lowered its eyelids, and the LED spun into yellow. 
+
+“Yes. I am a police prototype, JR400. I am a defender of the state.” 
+
+One of the men scoffed loudly, before the men seized Javert and tied it to the chair.“You will die before the night is done.” The EJ100 said, his white pupils flashing in anger, a sentiment Javert was unaccustomed to seeing on an android’s face. Javert frowned, as a show of confusion for the sake of communication, though it had grown used to naturally displaying the expression in any situation which required it.“Why not now?” It asked. 
+
+“We won’t be wasting ammunition on you.” The android motioned spitting at Javert’s feet, although no spit came, and if Javert had a sense of humour, it would have laughed. 
+
+Instead it looked around to the other men. Courfeyrac was looking at it with a grim expression. Javert scanned it as anger and, upon reevaluation, disappointment. It lowered its head. Its long hair, usually neatly tied back, fell in front of its face. There was nothing that could be done except to wait. 
+
+And wait it did.
+
+As the night bore on, the shouts grew louder and the guns began to fire, bodies of the injured and the fallen would be taken in and tended to as best they could manage. Javert, deep within its internal programming, would only notice when it saw blood gushing out of dying humans, or thirium spilling out of androids, many of which it had initially not recognised as such. The battle, despite Javert’s lack of success, seemed to be veering in favour of the police squadron. There was no satisfaction nor was there pity within him, for those sentiments were hard to find in what was said to have no heart and no soul. Javert looked down, waiting for its own death. That is to say, waiting for nothing. It did not explain why watching thirium seep out of an android’s skull was such a formidable sight. Javert, holding its head low, stared at it as it stained the clothes of what was probably an android fighter, built much larger than most purely for showcase in human TV entertainment fights.Voices began to rise by the entrance of the Corinthe, and Javert began registering what was being said as blue blood filled its vision. 
+
+“Who is he?” Was said low voice Javert didn’t recognise.
+
+“A traitor. Police. He is to be executed within the hour.” Courfeyrac said, his voice far more laboured than it had been when they had met. 
+
+“I will rid him of you.”
+
+“We have no arms to spare, sir.” Courfeyrac said.
+
+“I have my own, do not fret.” The voice said.
+
+“Is this man to be trusted?” EJ100 spoke from farther away.
+
+“I know him, he is on our side.” A younger voice rang out. 
+
+Javert lifted its head then, at the mention of its execution, to see a man walking slowly toward it, towering tall. He was not part of the insurgents Javert had registered earlier, he was human and far older. Beneath an ill-fitting cap hid a shock of white hair, and his tormented expression was barely concealed by a greying beard. This man, it was most noticeable, was broader than Javert by double. 
+
+It took Javert a few long seconds to kick in its scan procedure, and its black eyes met the man’s grey ones. As it took each of the man’s worn features in, something deep within its internal hard-drive shivered, code glitched, a memory fragmentalised, a long forgotten cipher unraveled.
+
+                                    Facial ID :: [Processing ] [ ... ]                                     [ Recognised ]     
+
+In front of Javert stood Jean Valjean, fugitive, wanted criminal, thief, convict. The words flashed frantically in the back of its eyelids. Javert growled, however unintimidating in the position it found itself. Valjean did not speak, and instead silently untied Javert from the chair. He grabbed Javert’s arm and pulled it up, not unkindly, and guided it behind the smaller alley to the side, where the barricade had been built lower and with less effort. They both stepped over a pile of overturned bricks, and Javert could feel the strength of Valjean’s hands through the fabric of its jacket.
+
+In the alley, hidden by the barricaded side of the street, Valjean pulled out a knife from his jacket pocket. 
+
+“Turn around.” He said. He sounded tired. 
+
+“I do not take orders from you, criminal.” Javert responded in a level tone.
+
+“Turn around,” Valjean sighed, “please.”
+
+Javert did not move. “The most logical way to terminate me is to put that knife straight through my central terminator.” 
+
+Javert’s hands were still tied behind its back, so it could not point at the centre of its chest. It opened its mouth again, but Valjean suddently grabbed its shoulder and turned it round forcibly, pushing Javert with controlled strength against the cold brick. Javert waited for the blow that never came. It remained intact, and its hands were unbound.
+
+Javert turned around slowly. “I don't understand.”
+
+“You are free to go.” Valjean spoke with finality.
+
+Again, Javert did not move. 
+
+“I am to arrest you. You are a wanted criminal. A thief.” 
+
+Valjean closed his eyes for a moment, in a gesture of prayer, almost. Javert grew more confused. Something was missing, yet its interface was blank except for a single, blinking order.  Infiltrate the barricades.  
+
+Valjean opened his eyes again, a question bright in his grey pupils. He stared at Javert, frowning.
+
+“I–” he paused, looking away as if searching for words, “How should I call you?”
+
+“Prototype JR400.”
+
+Valjean let out a laugh, but there was hardly any amusement in it. He waited. When Javert did not respond, confused as to what Valjean was asking of it, he frowned again with worry. 
+
+“Do– Do you not remember me?” Valjean looked deep into Javert’s eyes. Again its insides shivered strangely, an image flickering in and out of existence. The distant waves of the sea, which it had never even been near, rushed in its ears. Valjean's face became two, three different faces morphed monstrously into one. 
+
+Javert tried almost desperately to make sense of the question as turmoil crackled through its programming. 
+
+“What is there to remember?” It asked. 
+
+Valjean let out a heavy sigh and rubbed his face in his hands. A sharp explosion rang out from the barricade followed by shouts, making both of them turn their heads. 
+
+“Very well,” Valjean said, his voice more hurried as he turned back, “there’s no time. You can find me at Rue de l’Homme-Armé number 5 when the night is done. We shall– I can tell you more.” Javert watched as Valjean’s eyes brightened, “And if still you wish to arrest me then, I will come willingly. Now go.” 
+
+Valjean pulled out a gun and Javert took several steps back toward the other end of the alley, farther from the barricade, the screams, the thirium dripping through the drains and into the sewers of Paris. Farther away from this man, whose presence made Javert’s chest and fists tighten with a tension it did not think possible.
+
+“For God’s sake, go!” Valjean half-whispered, half-shouted, pointing the barrel of the gun to the brick wall beside Javert. 
+
+Javert hesitated. The flashing order behind its eyelids dissolved.
+
+“Javert.”
+
+Valjean looked at it, startled. 
+
+“You can call me that.”
+
+They held each other’s gaze, for a moment longer. The roaring sounds of battle stalled for a moment, and they were suspended in time, on a night in early June, their eyes on each other but their minds elsewhere. A chord stretched in the space between them, taut until it snapped. A flash of time, the smell of salt, a chain, a bullet. Javert trembled. Finally, Valjean fired, breaking the silence, then amplifying it. 
+
+Javert fled without looking back. 
+
+ 
+
+
+(See the end of the chapter for notes.)
+
+
+
+Javert walked until it could no longer hear gunshots, and but soon took a different route to return in the vicinity of the barricades, and hear the violence reverberate through its body, like a reminder that it existed, that what just happened was not a hallucination or a construction of its mind or a bug in its code. Javert didn't stay close for long, for the possibility of seeing Valjean again made it shudder. 
+
+
+
+It was odd, to see this machine of obedience and posture broken by the mere words of a stranger. To be given freedom by what it knew to be a monster, a criminal, the epitome of lawlessness and amorality. It was logical for Javert to see nothing but that in him, so why it awoke some strange memory was a mystery to it. Javert looked up at the sky just to see a wave crashing down on it, feeling the droplets of salt water run down its cheeks, feeling the cold and the warmth around its arm, registering the slow murmur of breathing beside it. 
+
+
+
+The memory oscillated back and forth and layed back again, away from its grasp. 
+
+
+
+The absence of a flashing order on its interface unsettled its programming. A call arrived from the database of the Prefecture and Javert pushed it aside with an ease that was not possible in its programming. It thought about Chabouillet, a man so human Javert struggled to understand it. Everything he did he kept beneath the surface, every word he uttered held a thousand different meanings beneath it. His fast eyes flickering from one moment to the next and Javert was always running to keep up. Valjean, instead, felt slow and deliberate. Pained, yes, but earnest. What could it mean?
+
+
+
+Javert did not notice, but its back was no longer straight. It curved like Valjean’s, as if mimicking him, then straightened again. Control was lost on it, for reasons it could not comprehend. To an outside observer this might have seemed strange behaviour for a man and stranger still for an android, yet Javert remained utterly unaware. Its face was immobile, and grave. Just as it reached the beginning of Pont Au Change, bathed in a gathering mist like it held secrets it could not see, a voice materialised within Javert. 
+
+
+
+
+What is this? 
+
+
+
+
+It was not a voice it recognised, it was low and quiet, but it echoed against the walls of its skull. It spoke again.
+
+
+
+
+Fear. 
+
+
+
+
+Javert knew what fear was. It was a stimulus triggered in the human temporal lobe, causing the release of adrenaline, the dilation of pupils, the rise of heart rate and blood pressure and the accelaration of breath. It was programmed to recognise fear in facial movements, in the breath, even in the perspiration of the skin of humans. It was part of him, to know and understand the effects of human emotion. It knew fear was a force capable of making humans and deviant androids do desperate things. The idea that it could be feeling something akin to any of that was an impossible thing. Javert’s whole system was shutting down. Perhaps breathing might have helped, but it could not. It wanted to rip its code out like organs in a body. It could not do that either. 
+
+
+
+The rushing of the river grew louder, and Javert walked toward it, barely a shadow of itself. The ledge was cold beneath its hands. 
+
+
+
+If it jumped, the water below would swallow it in an instant, but it would not end it. The emergency protocol would kick in and its body would drag itself out of the water. Its own code made Javert unkilleable. There was no way to escape this world, there was no way to escape consciousness. 
+
+
+
+This broke Javert. Like a feral beast with an arrow in its back, it doubled over, onto itself. 
+
+
+
+Again the sea in its mind floated up like a tide and completely covered the empty interface of its mind. No longer could Javert see its boots on the concrete of the bridge when it looked down, but its bare feet, white polyurethane beneath artificial skin colour, curling up in the wet sand. 
+
+
+
+Javert stood up again and could not see the misty cobbled roads of Paris in the dead of night, but an endless expanse of sea, cold and stormy and infinite. The same warmth in its right hand. Javert looked down to see a human hand holding it tightly. When Javert tried to look up, the vision vanished. 
+
+
+
+Javert desperately tried to retrieve it.
+
+
+ 
+
+
+>>> open (Database:: Archive, Section:: Memory, Year:: 2120)
+
+
+
+>>> .retrieve()
+
+
+
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+> [Error] [Unavailable]
+
+
+ 
+
+
+A guttural scream shattered through Javert and echoed down the empty bridge. There was no way out of it. It was going to return to that man, Valjean, and ask him to terminate it. Refusal, Javert decided, would result in a kick in the chest and a stolen gun. Something deep within it knew that a bullet through its central processor would not be enough, and that it would have to tear itself apart piece by piece.
+
+
+
+Javert did something it had never had to do. It made a decision. Dawn would be approaching soon, and its feet guided it sluggishly to Rue de l’Homme Armé. 
+
+
+
+The hours of the night stretched as Javert waited. For the first time, it wished it were capable of sleep. Just as the deep night lightened a fraction, it heard dragged footsteps behind it and turned.
+
+
+
+Jean Valjean stopped in front of Javert, covered head to toe in muddy water and blood trailing down his shoulder, melting in with the wet and darkly stained shirt. He had a tired, grave look to him, and something within Javert pulsed at the sight of him.
+
+
+
+“You came.” 
+
+
+
+“Yes.” Javert said. “I have to arrest you.” It added, but was not quite sure why. Javert already knew that was not going to happen.
+
+
+
+Valjean’s eyes cast down. “Do you?” He asked earnestly. 
+
+
+
+“I have orders.” Javert reasoned, for its own sake. 
+
+
+
+Valjean looked down at himself, “Would you allow me to get changed before we talk?”
+
+
+
+Javert frowned. “I have no authority over – that.”
+
+
+
+A small smile showed on Valjean's weary face. “Of course. Please. Come in.” He gestured to the door. Javert let itself be guided through a short dark corridor and into a basement kitchen, where the light falling from the lampposts on the street trailed in through thin windows closer to the ceiling. Valjean pulled a chair out from the table, making an effort to lift it off the ground so it would not scrape. Javert stared. 
+
+
+
+“I live with my daughter. I do not wish to wake her.” Valjean was speaking more softly, and the bass of his voice rumbled through the air in waves as Javert registered them. 
+
+
+
+
+A daughter. 
+
+
+
+
+
+
+
+
+
+Javert filed the information, but words seemed to have blocked in its throat. They remained in silence, and Valjean seemed to be looking at Javert expectantly. 
+
+
+
+“Would you like to sit?” Valjean finally prompted, awkwardly casting away his eyes. Javert noticed that he did that a lot. Humans often did, but when Valjean did, it seemed to carry more meaning, one Javert could not discern. 
+
+
+
+“No.” It said, code naturally running through taught social cues. “I don’t need to sit.” It explained. 
+
+
+
+
+Valjean smiled. 
+
+
+
+
+“I know. Would you 
+
+like 
+
+to?” 
+
+
+
+Javert stared at him again, because none of it made sense. 
+
+
+
+
+“No.” 
+
+
+
+Valjean sighed resignedly, and moved across the room to exit the door. 
+
+
+
+
+“I will be back in a moment.” 
+
+
+
+Javert jerked a nod. When the room was empty and silent again, it scanned the space. It was a modest space, dust collecting on the highest surfaces and rarely used utensils, and a little damp, but not enough to be detectable by human smell. The rest was clean, homely, a string of garlic hanging by the working top, an unwashed mug by the side of the sink. Javert squeezed its eyes shut as another unfamiliar line of code shuddered to its interface, and it watched as Valjean’s fingers, less lined with age, held a smaller cup, lips touching the brim as he drank. 
+
+
+
+
+Javert shook its head, opening its eyes back to an empty kitchen. It had never seen that man drink from a coffee cup, yet the image was there. Was this imagination? It could not be, but the image lingered still, unexplained. 
+
+
+
+
+When Valjean returned, Javert realised he had not cleaned up properly. His white hair was still caked with mud, and his new shirt clung to damp patches on his skin. Javert wondered if he had changed quickly for its sake, and all but marvelled at this man in front of him, who was worried about keeping an android waiting. Valjean did not know that Javert had nowhere to be except for inside an incinerator after its system was going to be terminated, if it was lucky. 
+
+
+
+
+If Valjean noticed the pearly black eyes staring at him, he went at great lengths not to show it. He was looking anywhere but at the android in the middle of his kitchen, looking smaller and more lost than he ought to be in his own home.
+
+
+
+“Sorry to keep you waiting.” Valjean said, confirming Javert’s suspicions. 
+
+
+
+
+“I don’t notice time pass in the same way you do.” 
+
+
+
+
+“Do you not? I would have thought you would notice it more.” Valjean chuckled, and Javert looked at him blankly. Its eyes shuttered in a blink. It was a built-in function in order to not appear unsettling to humans. 
+
+
+
+
+Valjean’s smile faded, and he coughed into his hand. 
+
+
+
+
+“So. You came here for answers.”
+
+
+
+
+Javert hesitated. “Yes. I – I believe you know things that I do not.”
+
+
+
+
+“I’ve been wondering about that. You truly don’t remember me?” There was something strange in his voice. Something that shifted the earth beneath Javert’s feet like sand. Code flickered as it sped along its interface and all of a sudden Javert wished he could be human, feel blood run through its veins, and know what it felt like to hold such a depth of feeling in its eyes. Not until much later did it realise that it had never wanted something before in the same way. 
+
+
+
+
+Javert shook its head. 
+
+
+
+Valjean’s shoulders dropped. He took the seat he had offered Javert, his elbows resting on the smooth wood of the kitchen table. In his face, Javert realised with some confusion, there was as much disappointment as there was relief. 
+
+
+
+Valjean rubbed at his forehead tiredly. 
+
+
+
+
+“Please sit.” It sounded less like an offer and more of a beg. Javert complied. 
+
+
+
+“I know little of what happens to androids who deviate these days. There is more freedom than ten years ago, but it is still precarious, and –” Valjean took a steadying breath and struggled to continue.
+
+
+
+Javert’s eyes turned down to the twisted patterns of wood on the table. It was very old wood.
+
+
+
+“We have met before, you and I. In Montreuil-sur-Mer. You were under the service of Inspector Boudier, and I believe you recognised me almost immediately as a convict. Must be easy, with your capabilities.”
+
+
+
+
+Javert could tell Valjean’s eyes kept flicking toward it, and kept its head down. 
+
+
+
+“But you kept quiet, and with time, well… something changed, I am not sure what or how. I – Circumstance required that I collect a – a sick woman’s child.” He spoke the words meaningfully, as if Javert could understand from the inflections of his voice what Valjean did not wish to say. 
+
+
+
+“You –” Valjean’s breath caught in his throat slightly, as if speaking alone was resulting difficult. His voice dropped into a shameful whisper.
+
+
+
+
+“You tried to help me get the child, and I wanted to wait for you but, well, I didn’t and–” 
+
+
+
+
+Javert shook. Under its feet it could feel the soft crunch of snow, the whirring electricity as it tried to get away from something. In the corner of its eyes it could see a forest covered in grey snow, the trees flashing by as it ran, faster than any human could. With a jolt, what felt like someone pushing it down to the ground, Javert was brought back. It abruptly stood up, and the scrape of the chair echoed through the room. Valjean was standing too, grabbing Javert by the wrist, and he winced at the sudden noise. They stood there in tense silence for a moment. Valjean was shaking, but Javert had frozen, its pupils wide with panic. 
+
+
+
+
+“That is impossible.” It said, holding onto the certainty like it was steady ground in the middle of a storming sea. Surely, upon recognising a criminal, Javert must have followed the procedure coded into its system. 
+
+
+
+“Please. J, I’m sorry. I was scared and–” Valjean began in a frantic whisper.
+
+
+
+
+“J.” Javert repeated. 
+
+
+
+
+“Javert.” Valjean corrected himself too quickly.
+
+
+
+Before Javert could push, it capted a small noise flickering down the stairs to the kitchen. A small, carefully melodic voice travelled in. 
+
+
+
+
+“Papa?” 
+
+
+
+Valjean let go of Javert and ran a hand through his damply caked hair. 
+
+
+
+
+“Cosette.” He voiced helplessly. 
+
+
+
+
+Javert turned round. In the doorway stood a girl, her eyebrows stitched up in a worried expression, long, blonde hair framing her young, healthy face. 
+
+
+
+
+
+
+                                    Facial ID :: [ 
+Processing
+ ] [ 
+...
+ ]
+
+
+
+                                    [ 
+Recognised
+ ]
+
+
+
+
+
+
+
+Javert shook its head again. It had never seen this woman in its life.
+
+
+
+
+
+It could see sunken eyes and two missing teeth and desperate tears where there were none. Something was horribly wrong. Malfunction crawled up its throat like sick would crawl up a human’s. 
+
+
+
+It didn’t resist the impulse when it came. Javert turned to Valjean. “I apologise.” Then it turned to the young woman, Cosette, and politely said, “Miss, if you could turn around.” 
+
+
+Then it placed two hands onto the wooden table, and banged its head on the hard wood. It did so repeatedly until all it could see was blue. The front of its skull made a horrible metallic clank. All it could see was black, and the roaring sea, and Valjean shouting. 
+
+
+
+Then, finally, nothing at all. 
+
+
+
+hi im using this fic to avoid my responsibilities. this will have slow updates until my exams r over but please do subscribe if u would like 
+
+comments and kudos are very appreciated 
+
+find me on tumblr here
+
+
+(See the end of the chapter for notes.)
+
+
+
+
+Android ‘machines’ – for there is no other term appropriate to use – are unthinking, unfeeling and, to the very core of their creation, quintessentially inhuman. It is vital that we are aware that android machines are nothing more than highly sophisticated computers, built for our convenience. 
+
+
+
+
+
+These machines are not built to contain or internalise aspects crucial to the human experience. Furthermore, and often an overlooked fact, they were built 
+
+against
+
+ such aspects. [...] I see many giving human names to androids, and of course, that may help us to feel like they are like us. Yet I do hope the population is under no illusion that this simply isn’t true. Come it to no surprise that we call androids by serial number. 
+
+
+
+
+
+[...]
+
+
+
+ 
+
+
+
+- Androids: are they alive? 
+
+
+An interview with a CyberParis engineer
+
+
+
+
+The northern sea of the Straits of Gibraltar was not much different from the Mediterranean. Salt water against its skin still didn't feel like it should, sun touching its back was not an inconvenience of sorts, its body would understand the change and adjust its localised heat system. The water was the same, if colder, the nights were only a little longer, and the storms came slightly more often. When they did come, the storms were the same too. It was all it took for Javert to stand by the sea when anyone else could not, and brave the endless storms with a straight back and open eyes. From afar, it would be strange to see an android walk into the sea up to its shins and stand there, waves crashing over it wildly and melting back into the hungry waters. 
+
+
+
+A muted voice arose from behind it. Javert’s eyes whipped around, unsure it had even heard a sound beneath the noise of the storm. 
+
+
+
+In the haze of wind and water, immaculate, stood an identical version of itself. 
+
+
+
+Javert stared, wondering if the other android had even spoken, or if it had imagined it.
+
+
+
+“Who are you?” It was a stupid question. Javert did not expect the android to react. Androids were literal, most of the time. Questions had all the same impact on his abilities. One answered a question by accessing the appropriate information and providing it. Simple. Direct. Instead it was met with a sharp bark of laughter, facial muscles and skin contorting the blank expression. A flash of gums, an unsettling show of white teeth, and then it was gone again. Javert watched the other’s chest rise and fall slightly, as if it were breathing. There was no response.
+
+
+
+Javert stepped out of the sea, salt water drying off its skin in an instant. 
+
+
+
+It watched as irritation flickered across its own face worn by another, the muscles finding their way naturally, without the millisecond lag an android would experience in deciding the intention to express external emotion.
+
+
+
+“Where am I?” Javert asked.
+
+
+
+“Stop asking stupid questions.” The other Javert growled. Then it seemed to retreat.
+
+
+
+It was as if Javert was watching the conversation happen in slow motion. The noise of the storm was enough to drown out any other noise, yet neither of them were raising their voices to shout.
+
+
+
+“What happened? Did I die?”
+
+
+
+Again the other Javert bristled. “You banged your head against a hard surface and lost consciousness. And this is… your blueprint. Your ideal.” 
+
+
+
+Javert scoffed. “You are my ideal?”
+
+
+
+The man barked another short laugh. “No. Of course not.” Its lip curled up into a slight sneer. 
+
+
+
+
+Then it took a breath, its face serious again. “There are memories you cannot access. Things that happened here. On the shores outside Montreuil-sur-Mer.” 
+
+
+
+Javert briefly remembered its vision on the bridge. It looked up to himself, who was in turn looking away, to a point where the sand melted into shrubbery and stretched into a pine forest as far as Javert could see. Code hiccuped and riddled in its mind, to no avail. There seemed to be nothing to remember, even the memory of the white polymer skin of its hand against the dappled skin of another man was now only accessible to it as a second hand memory, something filtered through infinite layers of absence. 
+
+
+
+“I can’t remember…” Javert’s voice trailed out, so strange and unsure, before it noticed the other man was walking away. 
+
+
+
+“Wait.” It called out. The other stopped. “When I wake there will be damage?” Javert said, a fact posed as a question, voice rising slightly over the roar of the sea and voices echoing through the air around them. 
+
+
+
+The man turned. Javert noticed only now just how different they looked from each other. Its own hair was tied tight and sharp behind its head, skin smooth and neutral. The man in front of him was flawed, hair subject to the whims of the storm's wind, escaping his ponytail. His skin was marred with age, and a frown was carved deep into his forehead. He looked human, Javert realised, with an unfamiliar, painful ache. “Not if that fool has anything to do with it.” The man said. 
+
+
+
+“You mean the thief?”
+
+
+
+The other Javert paused, looking far away across the beach, somewhere unseeable. “Valjean. Yes. Him.”
+
+
+
+“Valjean.” Javert echoed. 
+
+
+
+
+Valjean
+
+. 
+
+
+
+The name rippled through his body, and the man in front him melted in a constellation of light and pain. 
+
+
+
+Prickles of pain bloomed brightly against his left temple, the echoing voices loud against his hearing system, each vibration crackled across his eyes. All he could see was pulsing sunlight against his pupils, and the ever present glowing clock, shifting with each passing second. Relieved, Javert focused on it. He counted exactly one minute and fourty-three seconds until the voices finally lowered to clarity from that moment.
+
+
+“-system has not been rebooted. If he awakes naturally within the next few days, we should be able to assess the damage just by talking to him.” An unfamiliar voice crackled in and out of Javert's understanding. 
+
+
+
+“You're certain that he will wake up?” Valjean’s low voice pierced through the darkness, and Javert's interface burst with fast code in colours he had never seen. It hurt.
+
+
+
+“Not certain, monsieur, no. But his prototype model is a resilient one.” The voice paused. “That is to say, he’s very strong, and has surely survived worse. I'd be more surprised if he did not wake up.” 
+
+
+
+It was not strange for humans to talk about androids in their presence, yet the strangeness he felt blossomed from the fact that he was being spoken about as if he were alive. 
+
+
+
+
+He’s very strong. 
+
+
+
+
+Javert knew that much to be true. It was the pronoun which echoed back and forth through his systems. He had been made to respond to anything humans, better still if in positions of authority, preferred to refer to him. He had been made to respond regardless. When had he begun thinking of himself as a man? His broken memories flickered by as he tried to get a grasp on what was now and what was then. 
+
+
+
+The voices floated back.
+
+
+
+“I appreciate the help, doctor.” Valjean was saying. 
+
+
+
+“Please, Lesgles.” 
+
+
+
+“Very well.” Valjean sighed, a very gentle smile colouring his voice. “How many have you lost?” 
+
+
+
+The man called Lesgles paused for what seemed like a very long moment.
+
+
+
+“One is already one too many, sir.” He finally spoke with a pained finality. 
+
+
+
+“Of course, yes.” Valjean said apologetically. 
+
+
+
+Fifty-three seconds of silence passed. Javert could now see only black, and the flashing green of his interface clock against it.
+
+
+
+“And the boy…?” A strange quiver settled in Valjean’s voice, of which the meaning was out of Javert’s capacities. He still flitted through his archive of interpretive code, but nothing seemed to fit. Javert had been made to follow orders, so he had nothing but the basics, and even those were lacking at times. 
+
+
+
+“Alive. Thanks to you.” 
+
+
+
+“I didn't–” Valjean tried, but was interrupted. 
+
+
+
+“I won’t reveal your secret.” Lesgles hurried to say. “I don't pretend to know why you did it. I– we have lost much. One less death is a valuable thing.” 
+
+
+
+Valjean coughed. 
+
+
+
+“Well, I should get back. When he wakes, let fourty-eight hours pass and then call for me. Unless he starts malfunctioning. In that case you call me immediately.” 
+
+
+
+
+“I’ll show you out.” 
+
+
+
+Javert heard a chair scrape and Valjean’s uneven steps trickle away and out the door. He opened his eyes a fraction, hoping to catch a glimpse of the two men. Instead the world burned white as his pupils struggled to grasp onto the sudden new colours of the unfamiliar room. With the light came the pain again, in slow but sudden waves. Javert squeezed his eyes shut again and rose a snow white hand to his head. 
+
+
+
+
+The deep dent he expected to be there was not, but the skin was uneven by his left temple. Javert could only feel it with the tips of his fingers. The skin sensors there must have broken. Testing it out, Javert knocked on his head with his fingernail. Beneath the softness of the artificial skin, the hybrid metal met his hand, and he felt the echo through his skull. With a shudder he stopped. It felt newly unpleasant to perform the usual self-scan tests, like suddenly touching his body was something more intimate than he had ever thought it to be.
+
+
+
+He scanned the room. It was simple, bare, and old. Twelve square metres, three by four. A plain wooden chest of drawers was pushed up against the far right corner, and the bed where he lay was pushed against the left wall, in length. On the opposite wall was a closed window, and outside he could glimpse the growing vines over a garden wall. 
+
+
+
+The decision was swift, and Javert felt the thrill of it pumping his body up and out of the bed. It felt like following an order he had given himself. Quickly, uncaring of his state of being, unclothed and injured, he walked to the window and opened it. It did indeed give onto a garden, and the drop below was a mere two stories. The house was old and a handy ridge ran along its length. Javert mapped out a path instantly and pushed himself up onto the windowsill. If he reported back to the Prefecture and passed his injury off as an accident, none would be the wiser. He would not be terminated or questioned, and would be able to keep his position, with no reference or identification of his current location. Anything that had happened to him in the past thirty-six hours would not factor into any further equation.
+
+
+
+He swung a leg over and had barely just shifted his weight to his arms, when he heard the uneven steps of Valjean walking back to the guest room. His code shuddered weirdly, but he pushed through and swung his other leg out. 
+
+
+
+He heard something crashing to the ground, Valjean shouting “Javert!” and the old man’s face looking down at him from the open window, a wounded expression of shock on his face. Javert looked down so he could avoid looking at it, as, holding himself against the ridge, he climbed sideways toward the place where two outer walls met, for an easier descent. Before long, however, something strange happened. The space around him, his hands holding on to the ridge, his balance, his sight, the sky above, the ground below – hiccuped. He grabbed onto the ridge, again, his fingers gripping harder than necessary to hold his weight. It was as if Javert had missed a moment of being, as if everything had suddenly stopped and restarted again. When, after regaining the lost balance, he looked back toward the window, Valjean was no longer there. Relief was an uncommon emotion for an android, as it was only daughter to stranger feelings still. Pain, mostly, and fear. 
+
+
+
+He safely managed to reach the bottom, landing lightly on a patch of gravel, and he tried not to think about sand beneath his feet. He examined the space around him, forgoing analysis of the colourful array of flowers lining the inside of the garden wall and identifying a small metal gate instead. He crossed the garden quickly and tried to pull the gate open. It was locked. He grasped two bars, ready to pull himself up. 
+
+
+
+“Javert!” 
+
+
+
+Javert turned his head. Valjean was standing a few feet away, cautiously out of reach, holding a neat pile of clothes – including Javert’s uniform – in his arms, and wearing an incredibly pained expression. 
+
+
+
+“Wait.” 
+
+
+
+Inexplicably, Javert dropped his arms. 
+
+
+
+“You are no prisoner here. You can leave whenever you please.” Valjean was visibly struggling, his breath short from running. “I just ask that you– stay. For your own sake, until we get you patched up properly.” 
+
+
+
+“We.” Javert repeated. 
+
+
+
+“I called a doctor. You have survived what could have been a difficult injury, I- don’t know the specifics.” 
+
+
+
+Javert looked at the other man in silence. If Valjean wanted to stop him, he could. He was enormous. Logic required Javert to leave, return to his post and ignore what had brought him to this uncomfortable position to start with. Chabouillet would tell him what to do, and he would do it, and it would be simple. Yet questions still floated flakily at the edge of his mind, about Valjean and his every action, his every word, said or unsaid. The growing rumble of the sea in his ears, meanwhile, required something else, something still too far from him to understand, yet it grew deafeningly.
+
+
+
+Javert watched Valjean open his mouth to say something, and then decide against it, several times. Finally, Javert nodded once. The roaring sea rescinded and Valjean’s shoulders relaxed only a fraction.
+
+
+
+They remained in silence, looking at each other, for a longer time than socially appropriate. Then Valjean seemed to remember himself, and pushed the clothes against Javert’s chest, awkwardly shuffling back to the house and turning once by the door, as if worried that Javert would simply decide to fling himself to the other side of the wall the second he was out of sight. Javert, resigned, followed him. 
+
+
+
+When they both reached the guest room where Javert had been rested, Valjean knelt to the ground and began cleaning up the mess of a dropped tray, which had carried a bowl of soup, bread and cup of tea, now in shambles on the floor, chickpea soup soaking the ground and seeping into the floorboards. 
+
+
+
+“Sorry, I-” Valjean tried as he began cleaning up, but he stopped. “Oh.” He said, somewhat pained, passing a hand over his face. 
+
+
+
+Javert stared at the kneeling man from the doorway, his expression blank, as Valjean let out a low, extended chuckle.
+
+
+
+
+
+“I’d brought this food up for you.” 
+
+
+
+Javert blinked. 
+
+
+
+“I don’t eat.” 
+
+
+
+Valjean huffed out another laugh. “Indeed. I- well, I’m afraid I am getting quite old.” 
+
+
+
+Javert, unsure, lowered himself to aid Valjean in cleaning. 
+
+
+here's an update! i've already noticed my writing style changing across the chapters, which bothers me, but not enough to review the entirety of it. this is my first proper multi-chapter so thanks for coming along for the ride, and a pretty intense learning curb for me.my last exams are in a month's time, so i expect to have more of this done during summer break. 
+
+comments are v appreciated. thank you for reading :3
