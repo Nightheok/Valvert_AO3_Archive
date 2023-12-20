@@ -1,0 +1,258 @@
+Title: Up In Space
+Work ID: 14743958
+Author: 
+Rating: General Audiences
+Relationship: Javert/Jean Valjean
+Additional Tags: Modern AU, Post-Seine, Sickfic, Mild Hurt/Comfort, Astronomy, bc of the song 'Stars' in the musical, Fluff, hopefully, i'm bad at writing fluff, Let's see how this goes, comedy?, lots of pop culture references, emojis, B button emoji, sorry victor hugo, Gratuitous use of italics
+Language: English
+Status: Completed
+Chapters: 1/1
+
+Summary:
+Valjean tries to convince Javert to take the day off of work. Turns out that Javert hasn't changed a bit since Toulon.
+
+Work text:
+
+Throughout the years that Javert had been in the Paris police department, he remained professional and aloof. He did his job well, but wasn't necessarily liked or hated. He didn't have any close friends, so no one knew him well enough to know any of his interests. It wasn't until after Javert left the police that Jean Valjean began to know more about him.
+
+After resigning from the police department following his rescue from the Seine, Javert went on to become an astronomy professor at the local university. Jean Valjean was glad that Javert could finally do something that interested him, as Javert had majored in astrophysics in college. The class that he was teaching this semester was Astrophysics 271: Stellar and Galactic Astronomy.
+
+The content of the class was difficult and had a heavy emphasis in mathematics; about 40% of the students in Astrophysics 271 dropped the class within the first few weeks. It was a 10:30 class, and Javert always arrived early and stayed after if there were any followup questions.
+
+This particular day, however, he was feeling slightly less okay than normal. He woke up with a stuffy nose and his throat felt sore. Javert rarely ever got sick. However, he did get pneumonia pretty bad after nearly drowning in the Seine 11 months ago. After that, he ended up getting sick more often than he had before.
+
+Despite that, he hadn't asked a TA to substitute, so he decided that he had to teach today's class himself. He gathered the notes for the day's lesson, hoping that the topics covered could fit into the hour and 15 minute time slot.
+
+The day wasn't going as according to plan as Javert hoped, considering he got up later than he should have and felt like he was getting a bit of a cold. Javert took a paper towel from the counter in the kitchen, blowing his nose loudly. Valjean walked in on him blowing his nose and caught him by surprise.
+
+"You okay?" Valjean asked.
+
+"I'm fine," said Javert.
+
+"Says the guy whose nose is running like the Seine," Valjean remarked.
+
+"Touché," Javert said.
+
+"Are you sick?" Valjean asked. "You don't have any allergies and you're clearly not crying."
+
+"I'm not sick, I was just blowing my nose. If anything, it's probably just a cold. I'll be fine," the astronomy professor said. And then he sneezed.
+
+"I beg to differ," said Jean Valjean.
+
+"Come on, Valjean. It's just—achoo!" Javert sneezed again. His head moved enough so that some of his long hair got in his face, as he wasn't wearing a ponytail.
+
+"I think you should take the day off," Valjean said, moving Javert's dark hair away from his face.
+
+"I can't do that. I haven't emailed a TA to cover for me, and it's already..." Javert said, glancing at the digital clock on the oven. "Oh shit, it's 9:47 and I have to be there by 10:15!"
+
+Javert rushed to get to the university on time. Being uncharacteristically unprepared, his clothes were more casual than he would have liked. With his dark shirt and long hair, he sort of looked more like a member of a metal band than a college professor.
+
+Now that there was no turning back, Valjean hoped that Javert's astronomy lesson would go well.
+
+~~
+
+
+Thursday, 10:13 am
+
+
+Fortunately, Javert arrived at the university on time. No students were there yet since the class didn't start until 10:30. Even if he had a cold, he only had to be there for an hour and 15 minutes. Then he could return to his office and go home by 5 p.m. It couldn't be that bad, although the congestion he had was pretty annoying and he was starting to get a bit of a sore throat. 
+
+Just then a student entered the room: an early bird who he wasn't expecting to come at that time. After more students started coming in, he decided that he didn't want to stay for office hours. He just wanted to go home with Valjean after the lesson was over. Before too long, it was 10:30 and the class was ready to begin.
+
+"Today's lecture is on Bremsstrahlüng radiation in 3 dimensions. I won't be having any office hours today, so if you have any further questions after today's lesson, you can send me an email," Javert explained.
+
+"Last time, we calculated the power spectral density of O-type stars," he said, writing a complicated formula on the white board.
+
+Most people in the class had forgotten the formula, so this refreshed their memories and reminded them of how tricky this class was. The material covered in Astronomy 271 sometimes seemed pretty tedious; some students were a lot less excited about that class than they were initially when they realized that astronomy is not the same as astrology. No wonder it had a 40% drop rate. The classroom was designed kind of like a small movie theater: it has stairs and each row of seats was slightly higher than the row in front of it. Now that a sizable percentage of students had dropped the class, the room seemed pretty barren.
+
+"Are there any real-world examples of this?" someone asked.
+
+"A notable example of Bremsstrahlüng radiation in the universe is that coming from the hot intracluster gas of galaxy clusters. In this case, the electrons don’t bounce off a metal target but are deflected by the electric field of protons. The gas has X-ray luminosities of 10^36 to 10^38 Watts (roughly 10 billion to 1 trillion times the luminosity of the sun) and temperatures on the order of 10 million Kelvin. X-ray telescopes can detect this radiation as diffuse light," Javert explained.
+
+"The word 'Bremsstrahlüng' is a German word meaning 'braking radiation', which refers to the way in which electrons are braked when they hit a metal target. The incident electrons are free, meaning they’re not bound to an atom or ion, both before and after the braking. Consequently, this kind of radiation’s spectrum is continuous (unlike atomic spectra, which contain sharp spectral lines). The wavelength is similar to that of X-ray radiation, which is in the high frequency range of the electromagnetic spectrum," he said while writing an integral on the whiteboard. Unfortunately for Javert, this math equation was interrupted by a sneeze. His head jerked a little, making his long hair fly forwards. He definitely should have worn a ponytail.
+
+"Excuse me," he said, embarrassed, while pushing his hair away from his face. "So if we do the math, the result of the calculation should be in the range that we expect," he continued.
+
+It was especially inopportune to be ill in the middle of teaching a lesson; his throat was scratchy and he needed to blow his nose. Maybe Valjean was right. So he decided to pull an old professor trick and assign a problem for the students to attempt by themselves so that he could go outside for a while.
+
+"A way to solve this is to integrate this expression in spherical coordinates. The latitudinal dependence of spherical harmonics is given by the associated Legendre function, where theta is colatitude and l and m are respectively the degree an azimuthal order of the mode," he said while writing down a math problem. He made sure to explain what the variables meant so that they could complete the problem. "Your answers should be in Watts."
+
+The students looked at him as if he were speaking another language. The blank looks that the students were giving Javert weren't a good sign, but he pressed on anyway.
+
+"Alright, if there aren't any more questions, I want you to attempt this problem on the whiteboard," he said.
+
+While the students were busy, he stepped outside to text Jean Valjean.
+
+
+Javert: Hey, I'm leaving work early today. Do you want me to pick up Cosette from high school?
+
+
+
+Valjean: nah u dont have 2. i got this.
+
+
+
+Valjean: wait, u dont normally txt during class. wyd?
+
+
+
+Javert: I assigned a problem that the students are working on individually
+
+
+
+Valjean: what ru teaching? (B button emoji)lack holes (B button emoji)inary stars?
+ne(B button emoji)ulas? glo(B button emoji)ular clusters?
+
+
+
+Javert: I assigned them a math problem on Bremsstrahlüng radiation,
+but I think I made it too difficult. They were just staring at me the whole lesson.
+
+
+
+Valjean: i guess they have a pro(B button emoji)lem learning a(B button emoji)out
+(B button emoji)remsstrahlung radiation cuz it's a new concept.
+
+
+
+Javert: Why don't you just use the actual letter B instead of the B button emoticon?
+
+
+
+Valjean: (B button emoji)cuz im cool (sunglasses emoji). now i hope that after the lesson you
+come home and get some rest so your cold doesnt turn into (B button emoji)ronchitis.
+
+
+
+Javert: I'll (B button emoji)e (B button emoji)ack soon.
+
+
+After that, Javert blew his nose and went back inside to see how things were progressing with the students. The problem that he assigned might have been too difficult, because when he came back, a lot of students had questions about it.
+
+"How to you convert from Cartesian coordinates to spherical coordinates?" one of the students asked.
+
+"You have to include the factor rho squared times sine of phi when integrating," Javert answered. That made him consider assigning easier problems on the homework and tests. But for now, he was about ready to go home.
+
+~~
+
+
+Thursday afternoon at Valjean's house
+
+
+"So you're taking the day off tomorrow, right?" Valjean asked.
+
+"Yes, Valjean," Javert said reluctantly. "I'll email a TA to substitute the class."
+
+"Cool, Javert's staying home tomorrow!" Cosette said with glee in her voice. "Maybe you and papa can see the musical at my high school. We're doing Little Shop of Horrors this year."
+
+"That would be fun," said Valjean. "You can't normally see matinees if you never take any vacation days."
+
+"Well I did one time. It was like 11 years ago," Javert said. "But I didn't request to take the day off. They actually made me leave. Our team was to arrest 5 criminals linked to a series of armed robberies while I had a pretty bad case of influenza and they were like 'dude, go home'," Javert laughed.
+
+"I could totally see that happening," Cosette said.
+
+~~
+
+
+Thursday night
+
+
+One common fun leisure activity on a sick day is watching TV. Unless you're Javert and you're watching reruns of Family Guy with two people who are much more fond of its goofy humor than you are.
+
+"Is there anything else on besides The Family Guy?" Javert muttered to himself, although Cosette heard what he said.
+
+"It's just called Family Guy," Cosette corrected. Family Guy was one of Cosette's favorite TV shows. The episode that she, Valjean, and Javert were watching was the one where Brian tries to legalize marijuana in Quahog. The episode picked up at the scene where Peter and Brian got pulled over by police:
+
+
+[Brian and Peter are pulled over by policemen, the body of Quagmire's cat in the backseat. Peter is drunk and covered in blood stains. Two policemen exit the car and situate themselves on either side of Peter's car] 
+
+
+
+Policeman #1: What do we got, partner? 
+
+
+
+Policeman #2: Empty alcohol containers, the driver's inebriated and covered in blood, he's got scratches on his face and arms, there's a blood-soaked corpse in the backseat, got shovels in there, and a hand-drawn map titled "This is where we'll hide the body." 
+
+
+Policeman #1: Well, that all seems fine. Sorry to bother you sir. 
+
+
+[A small bag of weed falls from Brian's collar onto his lap] 
+
+
+
+Policeman #2: Pot! [Withdrawing gun and aiming it at Brian] Small amount of pot! 
+
+
+Javert didn't laugh at that joke; he merely scoffed, his dark eyebrows drawn together.
+
+"It's funny because it's true," Cosette said in a singsong voice.
+
+"Their depiction of law enforcement is so far from the truth. I know that marijuana is illegal, at least in France, but no one is that adamantly anti-pot enough to think that marijuana is worse than drunk driving and murder."
+
+"C'mon, Jav. You can't always take things so seriously. Although some shows do occasionally try to mix jokes with clever social commentary," Valjean pointed out.
+
+"Oh, please. Family Guy is so vapid that it makes Dora the Explorer look like deep existential introspectio—" Javert was about to flame Family Guy, but his remark only ended with him sneezing and his hair getting in his face. Cosette and Valjean exchanged looks and began laughing.
+
+"What are you laughing at?" Javert asked, smiling slightly at Valjean.
+
+"I just think it's funny how your hair gets in your face when you sneeze."
+
+"I guess this will fix it," Javert said, tying his hair in a messy bun.
+
+The episode continued with more cutaways, including the one where Peter sings as a mermaid.
+
+"Peter is just singing the Rockford Files theme badly. I don't see how that's funny at all," said Javert. Although generally not fond of TV, Javert liked the show The Rockford Files growing up. It was one of the things that got him interested in being a cop. It also, for a long time, made him think that Los Angeles cops were way tougher than Paris cops.
+
+"That came out in 1973. Damn, you're old," Valjean teased.
+
+"I was 8 when that came out. I find it strange that you're calling me old when you're 11 years older than me," Javert pointed out.
+
+"Fair enough," said Valjean.
+
+~~
+
+It wasn't until a cutaway gag in the next episode that Javert finally understood why Valjean and Cosette liked Family Guy. It was the scene where Peter dives into a room full of gold coins.
+
+Peter: I just bought a giant room filled with gold coins, and I'm going to dive into it like Scrooge McDuck. 
+
+[cutaway to Peter walking down the board, then diving into the coins, then bloodily injuring himself] 
+
+Peter: AAAAGH! It's not a liquid! It's a great many pieces of solid matter that form a hard, floor-like surface! AAAAGGHH! 
+
+This time, all three of them laughed at the joke.
+
+"Okay, that was actually funny," Javert admitted. Valjean then promptly high-fived him.
+
+"I like how Family Guy is passive-aggressive towards the crazy cartoon logic in Duck Tales." Javert blew his nose. "Like how the fuck can you dive into coins like it's a pool or something? That's physically impossible!"
+
+"Yeah, they do a lot of scenarios where they call other shows out or break the fourth wall," Cosette informed him.
+
+
+Friday, 2:13 a.m.
+
+
+Javert woke up in the middle of the night (which wasn't unusual for him at all). But this time, he couldn't just go back to sleep. It was because he had forgotten to email a TA to cover for his class! He went and got his phone, trying not to wake anyone up, and found the email address of the TA, Étienne Combeferre. He thought that emailing him was pretty much futile considering it was such a late notice and in the middle of the night.
+
+To: [email protected]
+Subject: AST 271 Friday class
+
+Hello M. Combeferre,
+
+Would it be possible for you to teach AST 271 on Friday at 10:30 as a substitute?
+I am currently ill and cannot teach the class on Friday, but I will be back Monday.
+I am very sorry for the late notice.
+
+Regards,
+René Javert
+
+About a minute later, he received a resopnse:
+
+From: [email protected]
+To: [email protected]
+Subject: re:AST 271 Friday class
+
+ok sure, no worries.
+
+Javert was surprised that Combeferre was up at this hour. He wondered how he could come up with lecture notes at such a short notice. But realistically, the Combeferre will probably just show an episode of Through the Wormhole with Morgan Freeman. But Javert could let that slide this time. This is a way to keep the class interesting. After all, the class is difficult, and the students need a break once in a while, too. He was content with the astronomy students watching Through the Wormhole with Morgan Freeman while he watches Cosette in Little Shop of Horrors with Valjean and enjoys his day off.
